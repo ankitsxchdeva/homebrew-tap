@@ -1,8 +1,8 @@
 class Tempbar < Formula
   desc "Menu bar app showing the inside and outside temperature"
   homepage "https://github.com/ankitsxchdeva/TempBar"
-  url "https://github.com/ankitsxchdeva/TempBar/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d4fa4c689bc13715d58e7c7feb93f8957245cadb27dd7141fb32bf8939de7490"
+  url "https://github.com/ankitsxchdeva/TempBar/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "90b8907c332787cdd6e225ba215895c986b3b333e8534c6db210187b96c19147"
   license "MIT"
   head "https://github.com/ankitsxchdeva/TempBar.git", branch: "main"
 
