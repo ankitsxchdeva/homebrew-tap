@@ -1,18 +1,11 @@
-# Ankitsxchdeva Tap
+# ankitsxchdeva/tap
 
-## How do I install these formulae?
+Homebrew tap for my projects.
 
-`brew install ankitsxchdeva/tap/<formula>`
-
-Or `brew tap ankitsxchdeva/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "ankitsxchdeva/tap"
-brew "<formula>"
+```sh
+brew install ankitsxchdeva/tap/tempbar
 ```
 
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+| Formula | What it is |
+| --- | --- |
+| `tempbar` | [TempBar](https://github.com/ankitsxchdeva/TempBar), a macOS menu bar app showing the inside and outside temperature. Builds from source, so it needs Xcode 16+. |
